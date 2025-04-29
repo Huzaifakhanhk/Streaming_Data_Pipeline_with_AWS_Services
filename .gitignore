@@ -1,0 +1,22 @@
+
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Environment variables and config files
+.env
+*.env
+
+# AWS credentials (do not commit private keys)
+aws_credentials.*
+aws_key.json
+credentials
+
+# IDE / Editor files
+*.idea/
+.vscode/

@@ -1,0 +1,6 @@
+
+boto3
+kafka-python
+pyspark
+PyYAML
+psycopg2-binary

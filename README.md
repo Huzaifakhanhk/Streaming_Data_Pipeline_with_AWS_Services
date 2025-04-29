@@ -1,2 +1,5 @@
-# Streaming_Data_Pipeline_with_AWS_Services
-A scalable data pipeline using AWS services like RDS, MSK, Glue, and EKS for real-time and batch processing. Features Change Data Capture (CDC), Kafka-PySpark integration, and robust relational data modeling. Automates ETL tasks, ensures data integrity, and offers fault-tolerant design with comprehensive logging and monitoring.
+
+# Streaming Data Pipeline with AWS (MSK, EKS, Glue) and Kafka/Spark
+
+This project is a sample **streaming data pipeline** built with AWS services and open-source tools...
+<Include the full README content here>
